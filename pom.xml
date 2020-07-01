@@ -135,7 +135,7 @@
 		<dependency>
 			<groupId>org.quartz-scheduler</groupId>
 			<artifactId>quartz</artifactId>
-			<version>2.2.3</version>
+			<version>2.3.2</version>
 		</dependency>
 		<!--缓存 -->
 		<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-redis -->
